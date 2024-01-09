@@ -2,3 +2,4 @@ snowflake_connector_python==3.0.3
 snowflake_snowpark_python==1.5.0
 streamlit==1.26.0
 transformers
+matplotlib
