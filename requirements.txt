@@ -3,5 +3,4 @@ snowflake_snowpark_python==1.5.0
 streamlit==1.26.0
 transformers
 matplotlib
-pytorch
-tensorflow
+torch
